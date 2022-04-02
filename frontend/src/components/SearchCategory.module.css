@@ -1,0 +1,23 @@
+.container input {
+    width:90%;
+    padding:10px;
+    margin-left:20px;
+    margin-top:10px;
+    border:1px solid black;
+    border-radius:5px;
+}
+.container{
+    width:70%;
+    display:flex;
+    margin-top:5px;
+    margin-left:200px;
+    margin-right:300px;
+}
+.searchbox{
+    background-color:rgb(196, 195, 195);
+    height:35px;
+    margin-top:10px;
+    margin-left:3px;
+    border-radius:5px;
+
+}

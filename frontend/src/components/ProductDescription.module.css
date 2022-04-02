@@ -1,0 +1,16 @@
+.container{
+    display:flex;
+}
+
+.prodimg{
+    padding:20px;
+    margin-left:100px;
+}
+.prodimg > img{
+    height:500px;
+    width:350px;
+}
+.proddesc{
+    padding:20px;
+    margin-top:30px;
+}

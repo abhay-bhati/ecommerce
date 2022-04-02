@@ -1,0 +1,14 @@
+.container{
+    width:15%;
+    background-color: rgb(190, 189, 189);
+    position:absolute;
+    z-index:100;
+    left:79%;
+    top:88px;
+    height:150px;
+    padding:10px 0px;
+}
+.container > p{
+    margin:0px;
+    text-align: center;
+}

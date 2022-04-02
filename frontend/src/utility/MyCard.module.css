@@ -1,0 +1,30 @@
+.container{
+    width:200px;
+    border:1px solid #ddd;
+    min-height: 200px;
+    height:410px;
+    padding:20px;
+    margin:20px;
+    box-shadow: 0 0 10px 3px gray;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.container img{
+    height:220px;
+}
+
+.container:hover{
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: rgb(196, 194, 194);
+}
+
+.price span{
+    font-weight: 600;
+}
+.price{
+    margin-top:auto;
+}

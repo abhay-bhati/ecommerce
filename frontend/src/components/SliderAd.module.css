@@ -1,0 +1,9 @@
+.container{
+    width:100%;
+    background-color: rgb(238, 237, 237);
+}
+.container img {
+    padding:20px 0px;
+    height:400px;
+    width:100%;
+}
